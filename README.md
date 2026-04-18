@@ -1,5 +1,9 @@
-## Hi there 👋
+Hi there ^^
 
+I'm studying Computer Modeling in Mechanics at a univesity in Czech republic (well at least atm, I wanna study Numerical Maths in my Master programm). 
+I'm trying to get more into programming in `python` (and that's how I ended up here and working on random projects) and I'm a Linux user. 
+
+✨(Love being a queer and alt person in engeneering spaces)✨
 <!--
 **tired-efe/tired-efe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
